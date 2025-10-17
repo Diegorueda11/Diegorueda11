@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi, I'm Diego Rueda 👋</b></h1>
 
 <p align="center">
-  <b>Frontend Developer | Student of Systems Engineering at UNAB | Passionate about clean code and modern web technologies</b>
+  <b>Frontend Developer | Systems Engineering Student at UNAB | Passionate about clean code and modern web technologies</b>
 </p>
 
 ---
@@ -11,11 +11,11 @@
 I'm a **Systems Engineering student** at the **Universidad Autónoma de Bucaramanga (UNAB)** with a growing passion for **web development** and **UI/UX design**.  
 I enjoy creating intuitive, dynamic, and efficient web applications using **modern frameworks and tools**.
 
-- 💻 I’m currently focused on **Frontend Development** with **React.js** and **Angular**.
-- 🧠 Learning about **Supabase**, **APIs**, and **full-stack integrations**.
-- 🛠️ I love turning ideas into code that solves real problems.
-- 🌱 Always curious and improving my skills in JavaScript ecosystems.
-- 🤝 Open to collaborate on web projects and open-source initiatives.
+- 💻 I’m currently focused on **Frontend Development** with **React.js** and **Angular**.  
+- 🧠 Learning about **Supabase**, **APIs**, and **full-stack integrations**.  
+- 🛠️ I love turning ideas into code that solves real problems.  
+- 🌱 Always curious and improving my skills in JavaScript and modern ecosystems.  
+- 🤝 Open to collaborate on web projects and open-source initiatives.  
 
 ---
 
@@ -27,7 +27,7 @@ I enjoy creating intuitive, dynamic, and efficient web applications using **mode
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </span>
 
 ### ⚙️ Frameworks & Libraries
@@ -53,6 +53,7 @@ I enjoy creating intuitive, dynamic, and efficient web applications using **mode
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/OverTools-4A90E2?style=for-the-badge&logo=tools&logoColor=white">
 </span>
 
 ---
