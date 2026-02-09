@@ -1,25 +1,25 @@
 <h1 align="center"><b>Hi, I'm Diego Rueda 👋</b></h1>
 
 <p align="center">
-  <b>Frontend Developer | Systems Engineering Student at UNAB | Passionate about clean code and modern web technologies</b>
+  <b>Frontend Developer · Systems Engineering Student @ UNAB · Clean Code & Modern Web Enthusiast</b>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Systems Engineering student** at the **Universidad Autónoma de Bucaramanga (UNAB)** with a growing passion for **web development** and **UI/UX design**.  
-I enjoy creating intuitive, dynamic, and efficient web applications using **modern frameworks and tools**.
+I’m a **Systems Engineering student** at the **Universidad Autónoma de Bucaramanga (UNAB)** with a strong interest in **Frontend Development** and **UI/UX design**.  
+I enjoy building **clean, intuitive, and high-performance web applications** using modern technologies.
 
-- 💻 I’m currently focused on **Frontend Development** with **React.js** and **Angular**.  
-- 🧠 Learning about **Supabase**, **APIs**, and **full-stack integrations**.  
-- 🛠️ I love turning ideas into code that solves real problems.  
-- 🌱 Always curious and improving my skills in JavaScript and modern ecosystems.  
-- 🤝 Open to collaborate on web projects and open-source initiatives.  
+- 💻 Focused on **Frontend Development** with **React.js** and **Angular**  
+- 🧠 Currently learning **Supabase**, **REST APIs**, and **full-stack integrations**  
+- 🛠️ I love turning ideas into scalable, real-world solutions  
+- 🌱 Constantly improving my skills in **JavaScript** and modern ecosystems  
+- 🤝 Open to collaboration on web projects and open-source initiatives  
 
 ---
 
-## 🧩 My Skills
+## 🧩 Tech Stack & Skills
 
 ### 💬 Languages
 <span>
@@ -39,21 +39,25 @@ I enjoy creating intuitive, dynamic, and efficient web applications using **mode
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 </span>
 
-### 🗄️ Databases
+### 🗄️ Databases & Backend Services
 <span>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
 </span>
 
-### 🧰 Tools & IDEs
+### 🧰 Tools, IDEs & Deployment
 <span>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=openai&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/OverTools-4A90E2?style=for-the-badge&logo=tools&logoColor=white">
 </span>
 
 ---
@@ -69,4 +73,4 @@ I enjoy creating intuitive, dynamic, and efficient web applications using **mode
 
 ---
 
-⭐ **"Code with purpose, learn with passion, and create with impact."**
+⭐ **“Code with purpose, learn with passion, and create with impact.”**
